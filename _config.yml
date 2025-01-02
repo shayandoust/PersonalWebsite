@@ -5,7 +5,9 @@ url: https://shayandoust.me
 owner:
   name: Shayan Doust
   avatar: placeholder.jpg
-  email: hello@shayandoust.me
+  email_personal: hello@shayandoust.me
+  email_work: S.Doust@liverpool.ac.uk
+  github: shayandoust
   cv: https://google.co.uk/
   lastfm: shayan_doust
   # facebook: caihanlin2002
